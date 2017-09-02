@@ -10,7 +10,7 @@
 import UIKit
 
 extension UIButton{
-    
+    //Final Func
     func wiggle(){
         let wiggleAnimation = CABasicAnimation(keyPath: "position")
         wiggleAnimation.duration = 0.05
